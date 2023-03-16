@@ -1,6 +1,7 @@
 go 1.19
 
 use (
+	./LeetCode/Check_If_Two_String_Arrays_are_Equivalent
 	./Floyd
 	./LeetCode/twoSum
 	./N_Queen
