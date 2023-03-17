@@ -1,8 +1,9 @@
 go 1.19
 
 use (
-	./LeetCode/Check_If_Two_String_Arrays_are_Equivalent
 	./Floyd
+	./LeetCode/Check_If_Two_String_Arrays_are_Equivalent
+	./LeetCode/Palindrome_Number
 	./LeetCode/twoSum
 	./N_Queen
 	./Prim
