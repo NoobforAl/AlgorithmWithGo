@@ -4,6 +4,7 @@ use (
 	./Floyd
 	./LeetCode/Check_If_Two_String_Arrays_are_Equivalent
 	./LeetCode/Is_Subsequence
+	./LeetCode/LongestCommonPrefix
 	./LeetCode/Palindrome_Number
 	./LeetCode/twoSum
 	./N_Queen
