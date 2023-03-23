@@ -2,9 +2,22 @@
 
 Algorithm written with GO.
 
-List:
+List Algorithm:
+- [Floyd](./Floyd/main.go)
+- [N Queen](./N_Queen/main.go)
+- [Prim](./Prim/main.go)
 
-- Leet Code Challenge
-- Floyd
-- N Queen
-- Prim
+### How Run Algorithm Program?
+go to folder Algorithm ( like prim ) and run code :
+
+```golang
+go run main.go
+```
+
+or run tests:
+
+```golang
+go test ./...
+```
+
+My Done LeetCode Challenge: [link](./LeetCode/README.md)
