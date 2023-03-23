@@ -5,7 +5,8 @@ My Account [Noobfor](https://leetcode.com/Noobfor/).
 
 List Challenge:
 
-- [Two Sum](https://github.com/NoobforAl/Algorithm_with_go/LeetCode/towSum/README.md)
-- [Check If Two String Arrays are Equivalent](https://github.com/NoobforAl/Algorithm_with_go/LeetCode/Check_If_Two_String_Arrays_are_Equivalent/README.md)
-- [Is Subsequence](https://github.com/NoobforAl/Algorithm_with_go/LeetCode/Is_Subsequence/README.md)
-- [Longest Common Prefix](https://github.com/NoobforAl/Algorithm_with_go/LeetCode/LongestCommonPrefix/README.md)
+- [Two Sum](./twoSum/README.md)
+- [Check If Two String Arrays are Equivalent](./Check_If_Two_String_Arrays_are_Equivalent/README.md)
+- [Is Subsequence](./Is_Subsequence/README.md)
+- [Longest Common Prefix](./LongestCommonPrefix/README.md)
+- [Convert Sorted Array to Binary Search Tree](./Convert_Sorted_Array_to_Binary_Search_Tree/README.md)
