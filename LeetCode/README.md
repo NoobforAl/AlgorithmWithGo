@@ -10,3 +10,4 @@ List Challenge:
 - [Is Subsequence](./Is_Subsequence/README.md)
 - [Longest Common Prefix](./LongestCommonPrefix/README.md)
 - [Convert Sorted Array to Binary Search Tree](./Convert_Sorted_Array_to_Binary_Search_Tree/README.md)
+- [Merge Two Sorted Lists](./Merge_Two_Sorted_Lists/README.md)
