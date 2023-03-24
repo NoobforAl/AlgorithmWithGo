@@ -8,6 +8,7 @@ use (
 	./LeetCode/LongestCommonPrefix
 	./LeetCode/Merge_Two_Sorted_Lists
 	./LeetCode/Palindrome_Number
+	./LeetCode/Roman_to_Integer
 	./LeetCode/twoSum
 	./N_Queen
 	./Prim
