@@ -6,7 +6,9 @@ use (
 	./LeetCode/Convert_Sorted_Array_to_Binary_Search_Tree
 	./LeetCode/Is_Subsequence
 	./LeetCode/LongestCommonPrefix
+	./LeetCode/Merge_Two_Sorted_Lists
 	./LeetCode/Palindrome_Number
+	./LeetCode/Roman_to_Integer
 	./LeetCode/twoSum
 	./N_Queen
 	./Prim
