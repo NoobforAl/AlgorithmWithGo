@@ -26,3 +26,5 @@ go test ./...
 - [Convert Sorted Array to Binary Search Tree](./Convert_Sorted_Array_to_Binary_Search_Tree/README.md)
 - [Merge Two Sorted Lists](./Merge_Two_Sorted_Lists/README.md)
 - [Roman to Integer](./Roman_to_Integer/README.md)
+- [Remove Duplicates from Sorted Array](./Remove_Duplicates_from_Sorted_Array/README.md)
+- [Valid Parentheses](./Valid_Parentheses/README.md)
