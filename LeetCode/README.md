@@ -28,3 +28,4 @@ go test ./...
 - [Roman to Integer](./Roman_to_Integer/README.md)
 - [Remove Duplicates from Sorted Array](./Remove_Duplicates_from_Sorted_Array/README.md)
 - [Valid Parentheses](./Valid_Parentheses/README.md)
+- [Remove Element](./Remove_Element/README.md)

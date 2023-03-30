@@ -6,8 +6,8 @@ import (
 
 func TestCase1(t *testing.T) {
 	nums := []int{1, 2, 3}
-	ans := []int{1, 2, 3}
-	l := removeDuplicates(nums)
+	ans := []int{1, 3}
+	l := removeElement(nums, 2)
 	if len(ans) != l {
 		t.Error("Wrong Length!")
 	}
@@ -15,15 +15,14 @@ func TestCase1(t *testing.T) {
 	for i := 0; i < l; i++ {
 		if ans[i] != nums[i] {
 			t.Error("Wrong Answer!")
-			return
 		}
 	}
 }
 
 func TestCase2(t *testing.T) {
-	nums := []int{1, 2, 3, 3, 3, 3, 4, 4, 4, 5, 5, 5, 5, 6, 6, 6, 6}
-	ans := []int{1, 2, 3, 4, 5, 6}
-	l := removeDuplicates(nums)
+	nums := []int{0, 1, 2, 2, 3, 0, 4, 2}
+	ans := []int{0, 1, 3, 0, 4}
+	l := removeElement(nums, 2)
 
 	if len(ans) != l {
 		t.Error("Wrong Length!")

@@ -9,6 +9,7 @@ use (
 	./LeetCode/Merge_Two_Sorted_Lists
 	./LeetCode/Palindrome_Number
 	./LeetCode/Remove_Duplicates_from_Sorted_Array
+	./LeetCode/Remove_Element
 	./LeetCode/Roman_to_Integer
 	./LeetCode/Valid_Parentheses
 	./LeetCode/twoSum
