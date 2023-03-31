@@ -30,3 +30,4 @@ go test ./...
 - [Valid Parentheses](./Valid_Parentheses/README.md)
 - [Remove Element](./Remove_Element/README.md)
 - [Add Two Numbers](./Add_Two_Numbers/README.md)
+- [Find the Index of the First Occurrence in a String](./Find_the_Index_of_the_First_Occurrence_in_a_String/README.md)

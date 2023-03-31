@@ -5,6 +5,7 @@ use (
 	./LeetCode/Add_Two_Numbers
 	./LeetCode/Check_If_Two_String_Arrays_are_Equivalent
 	./LeetCode/Convert_Sorted_Array_to_Binary_Search_Tree
+	./LeetCode/Find_the_Index_of_the_First_Occurrence_in_a_String
 	./LeetCode/Is_Subsequence
 	./LeetCode/LongestCommonPrefix
 	./LeetCode/Merge_Two_Sorted_Lists
