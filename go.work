@@ -8,6 +8,7 @@ use (
 	./LeetCode/Find_the_Index_of_the_First_Occurrence_in_a_String
 	./LeetCode/Is_Subsequence
 	./LeetCode/LongestCommonPrefix
+	./LeetCode/Longest_Substring_Without_Repeating_Characters
 	./LeetCode/Merge_Two_Sorted_Lists
 	./LeetCode/Palindrome_Number
 	./LeetCode/Remove_Duplicates_from_Sorted_Array

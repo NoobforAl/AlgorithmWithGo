@@ -31,3 +31,4 @@ go test ./...
 - [Remove Element](./Remove_Element/README.md)
 - [Add Two Numbers](./Add_Two_Numbers/README.md)
 - [Find the Index of the First Occurrence in a String](./Find_the_Index_of_the_First_Occurrence_in_a_String/README.md)
+- [Longest Substring Without Repeating Characters](./Longest_Substring_Without_Repeating_Characters/README.md)
