@@ -32,3 +32,4 @@ go test ./...
 - [Add Two Numbers](./Add_Two_Numbers/README.md)
 - [Find the Index of the First Occurrence in a String](./Find_the_Index_of_the_First_Occurrence_in_a_String/README.md)
 - [Longest Substring Without Repeating Characters](./Longest_Substring_Without_Repeating_Characters/README.md)
+- [Length of Last Word](./Length_of_Last_Word/README.md)
