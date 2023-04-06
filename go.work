@@ -9,6 +9,7 @@ use (
 	./LeetCode/Is_Subsequence
 	./LeetCode/Length_of_Last_Word
 	./LeetCode/LongestCommonPrefix
+	./LeetCode/Longest_Palindromic_Substring
 	./LeetCode/Longest_Substring_Without_Repeating_Characters
 	./LeetCode/Merge_Two_Sorted_Lists
 	./LeetCode/Palindrome_Number
