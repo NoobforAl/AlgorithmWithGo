@@ -15,6 +15,7 @@ use (
 	./LeetCode/Remove_Duplicates_from_Sorted_Array
 	./LeetCode/Remove_Element
 	./LeetCode/Roman_to_Integer
+	./LeetCode/Search_Insert_Position
 	./LeetCode/Valid_Parentheses
 	./LeetCode/twoSum
 	./N_Queen
