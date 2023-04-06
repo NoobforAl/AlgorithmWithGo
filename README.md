@@ -1,4 +1,4 @@
-# Algorithm_with_go
+# Algorithm With Golang
 
 Algorithm written with GO.
 
