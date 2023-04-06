@@ -19,6 +19,7 @@ use (
 	./LeetCode/Search_Insert_Position
 	./LeetCode/Valid_Parentheses
 	./LeetCode/twoSum
+	./Merge_Sort
 	./N_Queen
 	./Prim
 )

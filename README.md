@@ -3,11 +3,14 @@
 Algorithm written with GO.
 
 List Algorithm:
+
 - [Floyd](./Floyd/main.go)
 - [N Queen](./N_Queen/main.go)
 - [Prim](./Prim/main.go)
+- [Merge Sort](./Merge_Sort/README.md)
 
-### How Run Algorithm Program?
+## How Run Algorithm Program?
+
 go to folder Algorithm ( like prim ) and run code :
 
 ```golang
