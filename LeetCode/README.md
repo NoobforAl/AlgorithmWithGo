@@ -36,3 +36,4 @@ go test ./...
 - [Search Insert Position](./Search_Insert_Position/README.md)
 - [Longest Palindromic Substring](./Longest_Palindromic_Substring/README.md)
 - [Plus One](./Plus_One/README.md)
+- [Add Binary](./Add_Binary/README.md)
