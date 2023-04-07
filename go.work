@@ -2,6 +2,7 @@ go 1.19
 
 use (
 	./Floyd
+	./LeetCode/Add_Binary
 	./LeetCode/Add_Two_Numbers
 	./LeetCode/Check_If_Two_String_Arrays_are_Equivalent
 	./LeetCode/Convert_Sorted_Array_to_Binary_Search_Tree
@@ -13,6 +14,7 @@ use (
 	./LeetCode/Longest_Substring_Without_Repeating_Characters
 	./LeetCode/Merge_Two_Sorted_Lists
 	./LeetCode/Palindrome_Number
+	./LeetCode/Plus_One
 	./LeetCode/Remove_Duplicates_from_Sorted_Array
 	./LeetCode/Remove_Element
 	./LeetCode/Roman_to_Integer
