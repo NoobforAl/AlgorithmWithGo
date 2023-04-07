@@ -13,6 +13,7 @@ use (
 	./LeetCode/Longest_Substring_Without_Repeating_Characters
 	./LeetCode/Merge_Two_Sorted_Lists
 	./LeetCode/Palindrome_Number
+	./LeetCode/Plus_One
 	./LeetCode/Remove_Duplicates_from_Sorted_Array
 	./LeetCode/Remove_Element
 	./LeetCode/Roman_to_Integer

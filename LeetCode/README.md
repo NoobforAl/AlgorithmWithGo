@@ -35,3 +35,4 @@ go test ./...
 - [Length of Last Word](./Length_of_Last_Word/README.md)
 - [Search Insert Position](./Search_Insert_Position/README.md)
 - [Longest Palindromic Substring](./Longest_Palindromic_Substring/README.md)
+- [Plus One](./Plus_One/README.md)
