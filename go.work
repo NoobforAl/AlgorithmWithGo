@@ -12,6 +12,7 @@ use (
 	./LeetCode/LongestCommonPrefix
 	./LeetCode/Longest_Palindromic_Substring
 	./LeetCode/Longest_Substring_Without_Repeating_Characters
+	./LeetCode/Merge_Sorted_Array
 	./LeetCode/Merge_Two_Sorted_Lists
 	./LeetCode/Palindrome_Number
 	./LeetCode/Plus_One

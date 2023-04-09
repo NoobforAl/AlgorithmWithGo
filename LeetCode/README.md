@@ -38,3 +38,4 @@ go test ./...
 - [Plus One](./Plus_One/README.md)
 - [Add Binary](./Add_Binary/README.md)
 - [Same Tree](./Same_Tree/README.md)
+- [Merge Sorted Array](./Merge_Sorted_Array/README.md)
