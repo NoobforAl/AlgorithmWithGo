@@ -7,7 +7,8 @@ List Algorithm:
 - [Floyd](./Floyd/main.go)
 - [N Queen](./N_Queen/main.go)
 - [Prim](./Prim/main.go)
-- [Merge Sort](./Merge_Sort/README.md)
+- [Merge Sort](./Merge_Sort/main.go)
+- [A Star](./A_Star/main.go)
 
 ## How Run Algorithm Program?
 

@@ -1,6 +1,7 @@
 go 1.19
 
 use (
+	./A_Star
 	./Floyd
 	./LeetCode/Add_Binary
 	./LeetCode/Add_Two_Numbers
