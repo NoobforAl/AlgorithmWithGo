@@ -11,10 +11,9 @@ type Map [][]int
 type Point [2]int
 
 type Node struct {
-	Parent    *Node
-	Location  Point
-	Reachable bool
-	H, G, F   int
+	Parent   *Node
+	Location Point
+	H, G, F  int
 }
 
 var newPosition = [8]Point{
