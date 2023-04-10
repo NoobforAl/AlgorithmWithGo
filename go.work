@@ -22,6 +22,7 @@ use (
 	./LeetCode/Roman_to_Integer
 	./LeetCode/Same_Tree
 	./LeetCode/Search_Insert_Position
+	./LeetCode/Sqrt_x
 	./LeetCode/Valid_Parentheses
 	./LeetCode/twoSum
 	./N_Queen
