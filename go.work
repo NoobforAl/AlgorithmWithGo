@@ -15,12 +15,14 @@ use (
 	./LeetCode/Merge_Sorted_Array
 	./LeetCode/Merge_Two_Sorted_Lists
 	./LeetCode/Palindrome_Number
+	./LeetCode/Path_Sum
 	./LeetCode/Plus_One
 	./LeetCode/Remove_Duplicates_from_Sorted_Array
 	./LeetCode/Remove_Element
 	./LeetCode/Roman_to_Integer
 	./LeetCode/Same_Tree
 	./LeetCode/Search_Insert_Position
+	./LeetCode/Sqrt_x
 	./LeetCode/Valid_Parentheses
 	./LeetCode/twoSum
 	./Merge_Sort
