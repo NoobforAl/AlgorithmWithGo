@@ -39,3 +39,4 @@ go test ./...
 - [Add Binary](./Add_Binary/README.md)
 - [Same Tree](./Same_Tree/README.md)
 - [Merge Sorted Array](./Merge_Sorted_Array/README.md)
+- [Path Sum](./Path_Sum/README.md)

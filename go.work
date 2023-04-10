@@ -15,6 +15,7 @@ use (
 	./LeetCode/Merge_Sorted_Array
 	./LeetCode/Merge_Two_Sorted_Lists
 	./LeetCode/Palindrome_Number
+	./LeetCode/Path_Sum
 	./LeetCode/Plus_One
 	./LeetCode/Remove_Duplicates_from_Sorted_Array
 	./LeetCode/Remove_Element
