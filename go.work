@@ -19,6 +19,7 @@ use (
 	./LeetCode/Path_Sum
 	./LeetCode/Plus_One
 	./LeetCode/Remove_Duplicates_from_Sorted_Array
+	./LeetCode/Remove_Duplicates_from_Sorted_List
 	./LeetCode/Remove_Element
 	./LeetCode/Roman_to_Integer
 	./LeetCode/Same_Tree

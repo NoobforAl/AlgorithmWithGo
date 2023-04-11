@@ -42,3 +42,4 @@ go test ./...
 - [Path Sum](./Path_Sum/README.md)
 - [Squrt(X)](./Sqrt_x/README.md)
 - [Climbing Stairs](./Climbing_Stairs/README.md)
+- [Remove Duplicates from Sorted List](./Remove_Duplicates_from_Sorted_List/README.md)
