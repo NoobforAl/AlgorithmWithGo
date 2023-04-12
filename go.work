@@ -25,6 +25,7 @@ use (
 	./LeetCode/Same_Tree
 	./LeetCode/Search_Insert_Position
 	./LeetCode/Sqrt_x
+	./LeetCode/Symmetric_Tree
 	./LeetCode/Valid_Parentheses
 	./LeetCode/twoSum
 	./N_Queen

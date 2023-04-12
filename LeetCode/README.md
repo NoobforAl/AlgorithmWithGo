@@ -43,3 +43,4 @@ go test ./...
 - [Squrt(X)](./Sqrt_x/)
 - [Climbing Stairs](./Climbing_Stairs/)
 - [Remove Duplicates from Sorted List](./Remove_Duplicates_from_Sorted_List/)
+- [Symmetric Tree](./Same_Tree/)
