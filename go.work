@@ -14,6 +14,7 @@ use (
 	./LeetCode/LongestCommonPrefix
 	./LeetCode/Longest_Palindromic_Substring
 	./LeetCode/Longest_Substring_Without_Repeating_Characters
+	./LeetCode/Maximum_Depth_of_Binary_Tree
 	./LeetCode/Merge_Sorted_Array
 	./LeetCode/Merge_Two_Sorted_Lists
 	./LeetCode/Palindrome_Number
@@ -26,6 +27,7 @@ use (
 	./LeetCode/Same_Tree
 	./LeetCode/Search_Insert_Position
 	./LeetCode/Sqrt_x
+	./LeetCode/Symmetric_Tree
 	./LeetCode/Valid_Parentheses
 	./LeetCode/twoSum
 	./Merge_Sort
