@@ -44,3 +44,4 @@ go test ./...
 - [Climbing Stairs](./Climbing_Stairs/)
 - [Remove Duplicates from Sorted List](./Remove_Duplicates_from_Sorted_List/)
 - [Symmetric Tree](./Same_Tree/)
+- [Maximum Depth of Binary Tree](./Maximum_Depth_of_Binary_Tree/)
