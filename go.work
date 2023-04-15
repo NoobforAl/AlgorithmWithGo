@@ -5,6 +5,7 @@ use (
 	./LeetCode/Add_Binary
 	./LeetCode/Add_Two_Numbers
 	./LeetCode/Balanced_Binary_Tree
+	./LeetCode/Binary_Tree_Inorder_Traversal
 	./LeetCode/Check_If_Two_String_Arrays_are_Equivalent
 	./LeetCode/Climbing_Stairs
 	./LeetCode/Convert_Sorted_Array_to_Binary_Search_Tree
