@@ -47,3 +47,4 @@ go test ./...
 - [Maximum Depth of Binary Tree](./Maximum_Depth_of_Binary_Tree/)
 - [Balanced Binary Tree](./Balanced_Binary_Tree/)
 - [Binary Tree Inorder Traversal](./Binary_Tree_Inorder_Traversal/)
+- [Best Time to Buy and Sell Stock](./Best_Time_to_Buy_and_Sell_Stock/)
