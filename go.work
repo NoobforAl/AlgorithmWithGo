@@ -28,6 +28,7 @@ use (
 	./LeetCode/Remove_Duplicates_from_Sorted_Array
 	./LeetCode/Remove_Duplicates_from_Sorted_List
 	./LeetCode/Remove_Element
+	./LeetCode/Reverse_Integer
 	./LeetCode/Roman_to_Integer
 	./LeetCode/Same_Tree
 	./LeetCode/Search_Insert_Position

@@ -50,3 +50,4 @@ go test ./...
 - [Binary Tree Inorder Traversal](./Binary_Tree_Inorder_Traversal/)
 - [Best Time to Buy and Sell Stock](./Best_Time_to_Buy_and_Sell_Stock/)
 - [Last Stone Weight](./Last_Stone_Weight/)
+- [Reverse Integer](./Reverse_Integer/)
