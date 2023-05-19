@@ -13,6 +13,7 @@ use (
 	./LeetCode/Convert_Sorted_Array_to_Binary_Search_Tree
 	./LeetCode/Find_the_Index_of_the_First_Occurrence_in_a_String
 	./LeetCode/Is_Subsequence
+	./LeetCode/Jump_Game_II
 	./LeetCode/Last_Stone_Weight
 	./LeetCode/Length_of_Last_Word
 	./LeetCode/LongestCommonPrefix

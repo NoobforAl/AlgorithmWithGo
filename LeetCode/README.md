@@ -51,3 +51,4 @@ go test ./...
 - [Best Time to Buy and Sell Stock](./Best_Time_to_Buy_and_Sell_Stock/)
 - [Last Stone Weight](./Last_Stone_Weight/)
 - [Reverse Integer](./Reverse_Integer/)
+- [Jump Game II](./Jump_Game_II/)
