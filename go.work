@@ -40,4 +40,5 @@ use (
 	./Merge_Sort
 	./N_Queen
 	./Prim
+	./Quick_Sort
 )
