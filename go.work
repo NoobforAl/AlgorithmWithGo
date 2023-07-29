@@ -4,7 +4,6 @@ use (
 	./A_Star
 	./Floyd
 	./LeetCode/Easy/Add_Binary
-	./LeetCode/Medium/Add_Two_Numbers
 	./LeetCode/Easy/Balanced_Binary_Tree
 	./LeetCode/Easy/Best_Time_to_Buy_and_Sell_Stock
 	./LeetCode/Easy/Binary_Tree_Inorder_Traversal
@@ -13,12 +12,9 @@ use (
 	./LeetCode/Easy/Convert_Sorted_Array_to_Binary_Search_Tree
 	./LeetCode/Easy/Find_the_Index_of_the_First_Occurrence_in_a_String
 	./LeetCode/Easy/Is_Subsequence
-	./LeetCode/Medium/Jump_Game_II
 	./LeetCode/Easy/Last_Stone_Weight
 	./LeetCode/Easy/Length_of_Last_Word
 	./LeetCode/Easy/LongestCommonPrefix
-	./LeetCode/Medium/Longest_Palindromic_Substring
-	./LeetCode/Medium/Longest_Substring_Without_Repeating_Characters
 	./LeetCode/Easy/Maximum_Depth_of_Binary_Tree
 	./LeetCode/Easy/Merge_Sorted_Array
 	./LeetCode/Easy/Merge_Two_Sorted_Lists
@@ -29,14 +25,19 @@ use (
 	./LeetCode/Easy/Remove_Duplicates_from_Sorted_Array
 	./LeetCode/Easy/Remove_Duplicates_from_Sorted_List
 	./LeetCode/Easy/Remove_Element
-	./LeetCode/Medium/Reverse_Integer
 	./LeetCode/Easy/Roman_to_Integer
 	./LeetCode/Easy/Same_Tree
 	./LeetCode/Easy/Search_Insert_Position
 	./LeetCode/Easy/Sqrt_x
 	./LeetCode/Easy/Symmetric_Tree
+	./LeetCode/Easy/Valid_Palindrome
 	./LeetCode/Easy/Valid_Parentheses
 	./LeetCode/Easy/twoSum
+	./LeetCode/Medium/Add_Two_Numbers
+	./LeetCode/Medium/Jump_Game_II
+	./LeetCode/Medium/Longest_Palindromic_Substring
+	./LeetCode/Medium/Longest_Substring_Without_Repeating_Characters
+	./LeetCode/Medium/Reverse_Integer
 	./MergeSort
 	./N_Queen
 	./Prim
