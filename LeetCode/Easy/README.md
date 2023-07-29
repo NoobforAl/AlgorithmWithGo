@@ -29,3 +29,4 @@
 - [Best Time to Buy and Sell Stock](./Best_Time_to_Buy_and_Sell_Stock/)
 - [Last Stone Weight](./Last_Stone_Weight/)
 - [Valid Palindrome](./Valid_Palindrome)
+- [Majority Element](./Majority_Element/)
