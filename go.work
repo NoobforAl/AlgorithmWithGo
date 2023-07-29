@@ -37,8 +37,8 @@ use (
 	./LeetCode/Symmetric_Tree
 	./LeetCode/Valid_Parentheses
 	./LeetCode/twoSum
-	./Merge_Sort
+	./MergeSort
 	./N_Queen
 	./Prim
-	./Quick_Sort
+	./QuickSort
 )
