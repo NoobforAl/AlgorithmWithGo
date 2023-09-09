@@ -59,11 +59,12 @@ func Lookup(hash *HashTable, val int) bool {
 func main() {
 	table := make(map[int]*Node, SIZE)
 	hash := &HashTable{Table: table, Size: SIZE}
+
 	fmt.Println("Number of space: ", hash.Size)
 	for i := 0; i < 120; i++ {
 		Insert(hash, i)
 	}
-	Traverse(hash)
 
+	Traverse(hash)
 	fmt.Println(Lookup(hash, 1000))
 }

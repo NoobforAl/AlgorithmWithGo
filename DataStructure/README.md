@@ -8,3 +8,4 @@
 - [Doubly Linked List](./DoublyLinkedList/main.go)
 - [Binary Tree](./BinaryTree/main.go)
 - [heap](./Heap/mian.go)
+- [hash table](./HashTable/main.go)
