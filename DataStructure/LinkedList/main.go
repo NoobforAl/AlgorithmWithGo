@@ -46,11 +46,6 @@ func (l *LinkedList) Traverse() {
 func (l *LinkedList) LookupNode(val int) bool {
 	var rev func(t *LinkedList, val int) bool
 	rev = func(t *LinkedList, val int) bool {
-		if t == nil {
-			t = &LinkedList{Val: val}
-			return false
-		}
-
 		if val == t.Val {
 			return true
 		}
