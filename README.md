@@ -25,3 +25,5 @@ go test ./...
 ```
 
 My Done LeetCode Challenge: [link](./LeetCode/README.md)
+
+Data Structure: [link](./DataStructure/)

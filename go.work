@@ -2,6 +2,13 @@ go 1.19
 
 use (
 	./A_Star
+	./DataStructure/BinaryTree
+	./DataStructure/DuoblyLinkedList
+	./DataStructure/HashTable
+	./DataStructure/Heap
+	./DataStructure/LinkedList
+	./DataStructure/Queue
+	./DataStructure/Stack
 	./Floyd
 	./LeetCode/Easy/Add_Binary
 	./LeetCode/Easy/Balanced_Binary_Tree
