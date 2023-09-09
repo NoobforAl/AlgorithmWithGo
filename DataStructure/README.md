@@ -4,4 +4,5 @@
 
 - [Stack](./Stack/main.go)
 - [Queue](./Queue/main.go)
-- [LinkedList](./LinkedList/main.go)
+- [Linked List](./LinkedList/main.go)
+- [Doubly Linked List](./DoublyLinkedList/main.go)

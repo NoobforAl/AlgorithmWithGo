@@ -3,7 +3,7 @@ go 1.19
 use (
 	./A_Star
 	./DataStructure/BinaryTree
-	./DataStructure/DuoblyLinkedList
+	./DataStructure/DoublyLinkedList
 	./DataStructure/HashTable
 	./DataStructure/Heap
 	./DataStructure/LinkedList
