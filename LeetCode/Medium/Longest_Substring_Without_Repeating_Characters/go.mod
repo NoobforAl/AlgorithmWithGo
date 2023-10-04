@@ -1,3 +1,0 @@
-module Longest_Substring_Without_Repeating_Characters
-
-go 1.20
